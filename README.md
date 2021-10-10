@@ -3,7 +3,7 @@
 
 <p>
 <h3>
-I am currently studying to become a programmer, so... if you want to contact me for any reason, drop me a message on instagram <a href="https://www.instagram.com/eupou.pixel_art/">eupou.pixel_art</a>
+I am currently studying to become a programmer, so... if you want to contact me for any reason, send me a message on instagram <a href="https://www.instagram.com/eupou.pixel_art/">eupou.pixel_art</a>
 </h3>
 </p>
 
