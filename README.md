@@ -9,7 +9,7 @@ I am currently studying to become a programmer, so... if you want to contact me 
 
 <div>
   <a href="https://github.com/Eupou">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Eupou&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="164em" src="https://github-readme-stats.vercel.app/api?username=Eupou&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eupou&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
