@@ -16,10 +16,11 @@ I am currently studying to become a programmer, so... if you want to get in touc
   
 <div>
   <h3 align="left">Languages and Tools:</h3>
-    <img align="center" alt="Luis-React" height="30" src="https://img.shields.io/badge/-HTML-c91088?style=?style=flat-square&logo=5&logoColor=black">
-    <img align="center" alt="Luis-React" height="30" src="https://img.shields.io/badge/-CSS-c91088?style=?style=flat-square&logo=CSS&logoColor=05f0e8">
-    <img align="center" alt="Luis-React" height="30" src="https://img.shields.io/badge/-Git-c91088?style=?style=flat-square&logo=git&logoColor=white">
-    <img align="center" alt="Luis-React" height="30" src="https://img.shields.io/badge/-React-c91088?style=?style=flat-square&logo=react&logoColor=05f0e8">
+  <img align="center" alt="wesley-React" height="30" src="https://img.shields.io/badge/-HTML-44475a?style=?style=flat-square&logo=html5&logoColor=ffa500">
+  <img align="center" alt="wesley-React" height="30" src="https://img.shields.io/badge/-CSS-44475a?style=?style=flat-square&logo=css3&logoColor=1166e8">
+  <img align="center" alt="wesley-React" height="30" src="https://img.shields.io/badge/-JavaScript-44475a?style=?style=flat-square&logo=javascript&logoColor=ffff00">
+  <img align="center" alt="wesley-React" height="30" src="https://img.shields.io/badge/-React-44475a?style=?style=flat-square&logo=react&logoColor=05f0e8">
+  <img align="center" alt="wesley-React" height="30" src="https://img.shields.io/badge/-Git-44475a?style=?style=flat-square&logo=git&logoColor=white">
 </div>
 
 # My streak
