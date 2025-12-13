@@ -5,6 +5,13 @@
 - 📚 Cursando ciência da computação
 - 🤔 Em busca de uma vaga de estágio
 - 📨 Me contate pelo LinkedIn <a href="https://www.linkedin.com/in/wesley-gomes-7ba035206/">Wesley Gomes</a>
+
+---
+
+### Links
+<a href="https://leetcode.com/u/Eupou/">LeetCode</a>
+
+---
   
 <div>
   <h3 align="left">Minha tecnologias</h3>
