@@ -1,9 +1,9 @@
 
 <h1 align="left">Olá, meu nome é Wesley 💻</h1>
 
-- 🧑🏽‍💻 Desenvolvedor frontEnd
+- 🧑🏽‍💻 Programador
 - 📚 Cursando ciência da computação
-- 🤔 Em busca de uma vaga
+- 🤔 Em busca de uma vaga de estágio
 - 📨 Me contate pelo LinkedIn <a href="https://www.linkedin.com/in/wesley-gomes-7ba035206/">Wesley Gomes</a>
   
 <div>
@@ -15,6 +15,7 @@
   <img align="center" alt="wesley-React" height="30" src="https://img.shields.io/badge/-React-44475a?style=?style=flat-square&logo=react&logoColor=05f0e8">
   <img align="center" alt="wesley-React" height="30" src="https://img.shields.io/badge/Next.js---?logo=nextdotjs&labelColor=44475a&color=44475a">
   <img align="center" alt="wesley-React" height="30" src="https://img.shields.io/badge/Tailwind---?logo=tailwindcss&labelColor=44475a&color=44475a">
+  <img align="center" alt="wesley-React" height="30" src="https://img.shields.io/badge/Sass---?logo=sass&labelColor=44475a&color=44475a">
 </div>
 
 ---
@@ -23,11 +24,4 @@
   <a href="https://github.com/Eupou">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Eupou&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eupou&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-  
-
-# My streak
-  
-<div align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eupou&theme=dracula" width="700px"/>
 </div>
