@@ -9,7 +9,11 @@
 ---
 
 ### Links
-<a href="https://leetcode.com/u/Eupou/">LeetCode</a>
+Clique para ver o que eu estava estudando
+
+<a href="https://leetcode.com/u/Eupou/" target="_blank">LeetCode</a>
+<a href="https://www.freecodecamp.org/wesley_gomes_programador">FreeCodeCamp</a>
+
 
 ---
   
